@@ -1,0 +1,17 @@
+:root {
+  /* Helpers */
+  --margin-auto: 0 auto;
+
+  /* Sizes */
+  --max-width: 1400px;
+  --min-width: 320px;
+
+  /* Colors */
+  --first-color: #111111;
+  --second-color: #ffffff;
+
+  /* Fonts */
+  --font: "Roboto", "Arial", sans-serif;
+  --regular: 400;
+  --bold: 700;
+}
